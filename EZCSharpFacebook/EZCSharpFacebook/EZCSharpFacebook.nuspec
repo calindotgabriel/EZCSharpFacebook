@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EZCSharpFacebook</id>
+    <version>1.0.0</version>
+    <title>EZCSharpFacebook - lightweight wrapper around Facebook .NET</title>
+    <authors>Calin Gabriel</authors>
+    <owners>keSolutions</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Convenient and lightweight wrapper around the Facebook .NET SDK</description>
+    <copyright>Copyright 2016 keSolutions</copyright>
+    <tags>facebook sdk net</tags>
+  </metadata>
+</package>

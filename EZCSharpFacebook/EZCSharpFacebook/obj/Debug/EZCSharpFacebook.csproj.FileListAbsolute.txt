@@ -1,0 +1,6 @@
+C:\Users\HP\documents\visual studio 2013\Projects\EZCSharpFacebook\EZCSharpFacebook\bin\Debug\EZCSharpFacebook.dll
+C:\Users\HP\documents\visual studio 2013\Projects\EZCSharpFacebook\EZCSharpFacebook\bin\Debug\EZCSharpFacebook.pdb
+C:\Users\HP\documents\visual studio 2013\Projects\EZCSharpFacebook\EZCSharpFacebook\bin\Debug\Facebook.dll
+C:\Users\HP\documents\visual studio 2013\Projects\EZCSharpFacebook\EZCSharpFacebook\bin\Debug\Facebook.xml
+C:\Users\HP\documents\visual studio 2013\Projects\EZCSharpFacebook\EZCSharpFacebook\obj\Debug\EZCSharpFacebook.dll
+C:\Users\HP\documents\visual studio 2013\Projects\EZCSharpFacebook\EZCSharpFacebook\obj\Debug\EZCSharpFacebook.pdb
